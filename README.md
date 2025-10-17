@@ -11,4 +11,8 @@ Daily C problem solving practice (tracking my progress in algorithms and data st
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdlrhmanfahd/c-problem-solving/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/abdlrhmanfahd/c-problem-solving/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
