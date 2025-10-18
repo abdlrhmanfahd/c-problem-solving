@@ -55,6 +55,7 @@ int romanToInt(char* s) {
         {
             output += next - current;
             i++;
+            continue;
         }
         else
         {
